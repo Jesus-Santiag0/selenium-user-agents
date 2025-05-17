@@ -2,7 +2,7 @@
 
 This code, created using Python, automatically selects a user agent for each request made by Selenium. It is primarily designed for web scraping.
 
-## Detallles
+## Details
 
 > user-agents.py
 
